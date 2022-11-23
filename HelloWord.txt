@@ -10,4 +10,8 @@ hello yue
 hello yue
 hello yue
 hello yue
+<<<<<<< HEAD
 hello yue 13-master
+=======
+hello yue 13-branch1
+>>>>>>> branch1
